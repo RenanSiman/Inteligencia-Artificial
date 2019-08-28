@@ -1,3 +1,4 @@
+#Pratica03 Igor Miranda e Renan Siman
 # networkx - library to create graphs
 #from collection import OrderedDict
 import csv
